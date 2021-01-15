@@ -1,7 +1,11 @@
 # StayOnTop
-This program lets you set windows to persist on top even when working on active windows behind it.
+##### This program lets you set windows to persist on top even when working on active windows behind it.
 
-<img src="https://github.com/DIYCharles/StayOnTop/blob/main/Ontop_2.gif?raw=true" alt="drawing" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>
+<img src="https://github.com/DIYCharles/StayOnTop/blob/main/photos/Ontop_2.gif?raw=true" alt="drawing" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>
+
+##### Great for multi tasking and watching media while working in another program!
+
+<img src="https://github.com/DIYCharles/StayOnTop/blob/main/photos/sot2_5.gif?raw=true" alt="drawing" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>
 
 # How To Make The Page Persist On Top
 
