@@ -1,6 +1,7 @@
 # StayOnTop
-This program lets you set windows to persist on top even when working on active windows behind it. 
+This program lets you set windows to persist on top even when working on active windows behind it.
 
+<img src="https://github.com/DIYCharles/StayOnTop/blob/main/Ontop_2.gif?raw=true" alt="drawing" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>
 
 # How To Make The Page Persist On Top
 
@@ -13,5 +14,11 @@ The page should now persist on top and allow you to use the window actively unde
 
 To stop always on top either exit the oage or go to your tray in the taskbar and right click on the atom icon StayOnTop and select pause script.
 
+# How To Make StayOnTop Run On Startup
 
-![](https://github.com/DIYCharles/StayOnTop/blob/main/Ontop_2.gif?raw=true)
+You will need to run the StayOnTop.exe every time you restart your computer. If your would like for it to automatically run on start follow these steps.
+1. Copy the StayOnTop.exe to ```C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp```
+2. Restart your pc
+3. You should see the Atom icon in your system tray in the taskbar after startup
+4. Activate anytime by going to the window you want to keep on top and pressing Ctrl+Spacebar 
+
