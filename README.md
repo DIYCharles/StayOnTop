@@ -6,6 +6,7 @@
 ##### Great for multi tasking and watching media while working in another program!
 
 <img src="https://github.com/DIYCharles/StayOnTop/blob/main/photos/sot2_5.gif?raw=true" alt="drawing" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>
+(It performs perfectly fine the video is just bad becuase github has a max filesize limit)
 
 # How To Make The Page Persist On Top
 
