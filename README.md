@@ -14,4 +14,4 @@ The page should now persist on top and allow you to use the window actively unde
 To stop always on top either exit the oage or go to your tray in the taskbar and right click on the H and select pause script.
 
 
-![](Onop2.gif)
+![](https://github.com/DIYCharles/StayOnTop/blob/main/Ontop_2.gif?raw=true)
