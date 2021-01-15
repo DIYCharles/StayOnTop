@@ -5,7 +5,7 @@ This program lets you set windows to persist on top even when working on active 
 
 # How To Make The Page Persist On Top
 
-1. Download StayOnTop.exe from this repo 
+1. Download StayOnTop.exe from this repo [or this link if you don't want to use git](https://github.com/DIYCharles/StayOnTop/blob/main/StayOnTop.exe?raw=true)
 2. Run the .exe
 3. Open the webcam stream popup window and click on the top taskbar for the window to make sure it is the selected active window 
 4. Type Ctrl+Spacebar
