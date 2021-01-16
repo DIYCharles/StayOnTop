@@ -12,7 +12,7 @@ Great for multi tasking and watching media while working in another program!
 
 # How To Make The Page Persist On Top
 
-1. Download StayOnTop.exe from this repo [or this link if you don't want to use git](https://github.com/DIYCharles/StayOnTop/blob/main/StayOnTop.exe?raw=true)
+1. Download StayOnTop.exe from **[This Link](https://github.com/DIYCharles/StayOnTop/blob/main/StayOnTop.exe?raw=true)** or clone the repo if you're comfortable with git.
 2. Run the .exe
 3. Open the window you want to stay on top and click on the top taskbar for the window to make sure it is the selected active window 
 4. Type Ctrl+Spacebar
