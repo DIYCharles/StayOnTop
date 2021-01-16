@@ -1,12 +1,14 @@
-# StayOnTop
-##### This program lets you set windows to persist on top even when working on active windows behind it.
+<p align="center"><img src="https://raw.githubusercontent.com/DIYCharles/StayOnTop/main/photos/atom_icon-icons.com_53030.ico" alt="OctoPrint's logo" /></p>
 
-<img src="https://github.com/DIYCharles/StayOnTop/blob/main/photos/Ontop_2.gif?raw=true" alt="drawing" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>
+<h1 align="center">StayOnTop</h1>
 
-##### Great for multi tasking and watching media while working in another program!
+</br>
 
-<img src="https://github.com/DIYCharles/StayOnTop/blob/main/photos/sot2_5.gif?raw=true" alt="drawing" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>
-(It performs perfectly fine the video is just bad becuase github has a max filesize limit)
+##### StayOnTop lets you set windows to persist on top even when working on active windows behind it. You can set any program window in Windows to do this as well as many windows you'd like. 
+Here is an example of keeping a website on top to reference as ypu code behind it.
+<img src="https://github.com/DIYCharles/StayOnTop/blob/main/photos/Ontop_2.gif?raw=true" alt="drawing" style="display: block; margin-left: auto; margin-right: auto; margin-top: 1%; margin-bottom: 1%; width: 80%;"/>
+Great for multi tasking and watching media while working in another program!
+<img src="https://github.com/DIYCharles/StayOnTop/blob/main/photos/sot2_5.gif?raw=true" alt="drawing" text="It performs perfectly fine the video is just bad becuase github has a max filesize limit" style="display: block; margin-left: auto; margin-right: auto; margin-top: 1%; margin-bottom: 1%; width: 80%;"><a style="text-align: center;" src="https://imgur.com/gallery/iIRqMRy"><p style="text-align: center; font-size: 16px">(It performs perfectly fine the video is just bad becuase github has a max filesize limit. Click this for a link to the img page with a bit more decent qaulity)</p></a></img>
 
 # How To Make The Page Persist On Top
 
